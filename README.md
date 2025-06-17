@@ -26,5 +26,4 @@ This project is a **smart attendance system** that uses **face recognition** to 
 
 ---
 
-## 📂 Project Structure
 
